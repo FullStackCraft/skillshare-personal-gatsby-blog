@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Skillshare Awesome Blog]]></title><description><![CDATA[A starter blog from Skillshare demonstrating what Gatsby can do.]]></description><link>https://chrisfrew-dot-in.github.io/skillshare-personal-gatsby-blog/</link><generator>RSS for Node</generator><lastBuildDate>Sun, 11 Nov 2018 14:49:48 GMT</lastBuildDate><item><title><![CDATA[A Third Post (With Code!!!)]]></title><description><![CDATA[Code is a simple as this: just awesome code 😂 😄 🍺]]></description><link>https://chrisfrew-dot-in.github.io/skillshare-personal-gatsby-blog//a-third-post-with-code/</link><guid isPermaLink="false">https://chrisfrew-dot-in.github.io/skillshare-personal-gatsby-blog//a-third-post-with-code/</guid><pubDate>Sun, 11 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Code is a simple as this:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; aArray &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;4&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; i &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; i &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt; aArray&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;length&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; i&lt;span class=&quot;token operator&quot;&gt;++&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;i&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;just awesome code 😂 😄 🍺&lt;/p&gt;</content:encoded></item><item><title><![CDATA[A Nice Fall Cliff]]></title><description><![CDATA[Here’s how you include a picture:]]></description><link>https://chrisfrew-dot-in.github.io/skillshare-personal-gatsby-blog//a-nice-fall-cliff/</link><guid isPermaLink="false">https://chrisfrew-dot-in.github.io/skillshare-personal-gatsby-blog//a-nice-fall-cliff/</guid><pubDate>Sun, 11 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Here’s how you include a picture:&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/skillshare-personal-gatsby-blog/static/nice-fall-cliff-7b197050305026c4399ba6cd1707854b-01800.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUBAgT/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/2gAMAwEAAhADEAAAAdFF0MthSWf/xAAaEAACAgMAAAAAAAAAAAAAAAAAARESAxMi/9oACAEBAAEFAmipyh5VN5NjP//EABcRAQADAAAAAAAAAAAAAAAAAAASE2H/2gAIAQMBAT8Br1B//8QAFhEBAQEAAAAAAAAAAAAAAAAAABNh/9oACAECAQE/Aa4o/8QAGRABAAIDAAAAAAAAAAAAAAAAACExARAi/9oACAEBAAY/AtTlTmFv/8QAGhABAQACAwAAAAAAAAAAAAAAAQARIUFhwf/aAAgBAQABPyE4mdID3AWiNmeQj03/2gAMAwEAAgADAAAAEBA//8QAFxEBAAMAAAAAAAAAAAAAAAAAAAERcf/aAAgBAwEBPxCamn//xAAYEQACAwAAAAAAAAAAAAAAAAAAARExUf/aAAgBAgEBPxBO7EsP/8QAGxABAAMAAwEAAAAAAAAAAAAAAQARITFRcWH/2gAIAQEAAT8QV8fY64X5HsfUtgnsLa2ICEVFYVHmK71XL3P/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;A nice fall cliff&quot;
+        title=&quot;&quot;
+        src=&quot;/skillshare-personal-gatsby-blog/static/nice-fall-cliff-7b197050305026c4399ba6cd1707854b-f8fb9.jpg&quot;
+        srcset=&quot;/skillshare-personal-gatsby-blog/static/nice-fall-cliff-7b197050305026c4399ba6cd1707854b-e8976.jpg 148w,
+/skillshare-personal-gatsby-blog/static/nice-fall-cliff-7b197050305026c4399ba6cd1707854b-63df2.jpg 295w,
+/skillshare-personal-gatsby-blog/static/nice-fall-cliff-7b197050305026c4399ba6cd1707854b-f8fb9.jpg 590w,
+/skillshare-personal-gatsby-blog/static/nice-fall-cliff-7b197050305026c4399ba6cd1707854b-85e3d.jpg 885w,
+/skillshare-personal-gatsby-blog/static/nice-fall-cliff-7b197050305026c4399ba6cd1707854b-d1924.jpg 1180w,
+/skillshare-personal-gatsby-blog/static/nice-fall-cliff-7b197050305026c4399ba6cd1707854b-9452e.jpg 1770w,
+/skillshare-personal-gatsby-blog/static/nice-fall-cliff-7b197050305026c4399ba6cd1707854b-01800.jpg 4032w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Wow A Second Post]]></title><description><![CDATA[This is a title without any ‘frontmatter’… but now it does here’s a paragraph heres a smaller title a link to google]]></description><link>https://chrisfrew-dot-in.github.io/skillshare-personal-gatsby-blog//wow-a-second-post/</link><guid isPermaLink="false">https://chrisfrew-dot-in.github.io/skillshare-personal-gatsby-blog//wow-a-second-post/</guid><pubDate>Sat, 10 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;This is a title without any ‘frontmatter’… but now it does&lt;/h1&gt;
+&lt;p&gt;here’s a paragraph&lt;/p&gt;
+&lt;h2&gt;heres a smaller title&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://google.com&quot;&gt;a link to google&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hello World]]></title><description><![CDATA[This is my first post on my new fake blog! How exciting! I’m sure I’ll write a lot more interesting things in the future. Oh, and here’s a…]]></description><link>https://chrisfrew-dot-in.github.io/skillshare-personal-gatsby-blog//hello-world/</link><guid isPermaLink="false">https://chrisfrew-dot-in.github.io/skillshare-personal-gatsby-blog//hello-world/</guid><pubDate>Fri, 01 May 2015 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post on my new fake blog! How exciting!&lt;/p&gt;
+&lt;p&gt;I’m sure I’ll write a lot more interesting things in the future.&lt;/p&gt;
+&lt;p&gt;Oh, and here’s a great quote from this Wikipedia on
+&lt;a href=&quot;http://en.wikipedia.org/wiki/Salted_duck_egg&quot;&gt;salted duck eggs&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;A salted duck egg is a Chinese preserved food product made by soaking duck
+eggs in brine, or packing each egg in damp, salted charcoal. In Asian
+supermarkets, these eggs are sometimes sold covered in a thick layer of salted
+charcoal paste. The eggs may also be sold with the salted paste removed,
+wrapped in plastic, and vacuum packed. From the salt curing process, the
+salted duck eggs have a briny aroma, a gelatin-like egg white and a
+firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/skillshare-personal-gatsby-blog/static/salty_egg-8058f3f26913fea3b6a89a73344fe94a-3f5a1.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEEBf/aAAwDAQACEAMQAAABgik0dXC//8QAGRABAAMBAQAAAAAAAAAAAAAAAQACEhEy/9oACAEBAAEFAkqW2DlnRj73yf/EABcRAQADAAAAAAAAAAAAAAAAAAAREkH/2gAIAQMBAT8B1WX/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQL/2gAIAQIBAT8Bi6f/xAAbEAABBAMAAAAAAAAAAAAAAAAAAQIRISIxMv/aAAgBAQAGPwK9GNocyS8hCj//xAAbEAADAQADAQAAAAAAAAAAAAABESEAMUGBof/aAAgBAQABPyGxNMfrLHmCDZmAzzvJJDjEQCHv/9oADAMBAAIAAwAAABDIL//EABYRAQEBAAAAAAAAAAAAAAAAAAERAP/aAAgBAwEBPxARhylZv//EABgRAAIDAAAAAAAAAAAAAAAAAAABESFR/9oACAECAQE/EFoktI//xAAdEAEBAAICAwEAAAAAAAAAAAABEQAxIWFBcYHh/9oACAEBAAE/EEbMLQ0fMHDVaPIXyI4pk4JUnWacNCtO8ojDE9TGIYES7/Jn/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Chinese Salty Egg&quot;
+        title=&quot;&quot;
+        src=&quot;/skillshare-personal-gatsby-blog/static/salty_egg-8058f3f26913fea3b6a89a73344fe94a-f8fb9.jpg&quot;
+        srcset=&quot;/skillshare-personal-gatsby-blog/static/salty_egg-8058f3f26913fea3b6a89a73344fe94a-e8976.jpg 148w,
+/skillshare-personal-gatsby-blog/static/salty_egg-8058f3f26913fea3b6a89a73344fe94a-63df2.jpg 295w,
+/skillshare-personal-gatsby-blog/static/salty_egg-8058f3f26913fea3b6a89a73344fe94a-f8fb9.jpg 590w,
+/skillshare-personal-gatsby-blog/static/salty_egg-8058f3f26913fea3b6a89a73344fe94a-85e3d.jpg 885w,
+/skillshare-personal-gatsby-blog/static/salty_egg-8058f3f26913fea3b6a89a73344fe94a-d1924.jpg 1180w,
+/skillshare-personal-gatsby-blog/static/salty_egg-8058f3f26913fea3b6a89a73344fe94a-9452e.jpg 1770w,
+/skillshare-personal-gatsby-blog/static/salty_egg-8058f3f26913fea3b6a89a73344fe94a-3f5a1.jpg 2048w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;</content:encoded></item></channel></rss>
